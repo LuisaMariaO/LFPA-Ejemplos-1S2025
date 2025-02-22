@@ -1,0 +1,6 @@
+Nombre, Sabor, Presentación, Creatividad
+Gordon Ramsay,9,8,9
+Chefcito,10,10,10
+Jamie Oliver,7,9,8
+Alice Waters,8,9,7
+Massimo Bottura,9,7,8
